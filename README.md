@@ -1,4 +1,4 @@
-## Full Stack Deveoper
+## Full Stack Developer
 
 <!--
 **LeivaRodrigo/leivaRodrigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
